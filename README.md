@@ -5,4 +5,5 @@ Hi there, I'm Can 👋. As a research-driven professional, my expertise lies in 
 - [LinkedIn](https://www.linkedin.com/in/mehmet-can-ay-5b319518b/)
 
 ## My stats:
-[![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanay)](https://github.com/anuraghazra/github-readme-stats)
+![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanay&show_icons=true&theme=synthwave) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanay&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
