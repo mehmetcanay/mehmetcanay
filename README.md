@@ -4,4 +4,5 @@ As a research-driven professional, my expertise lies in molecular biology and ge
 ## Find me around the web 🌍:
 - [LinkedIn](https://www.linkedin.com/in/mehmet-can-ay-5b319518b/)
 
+## My stats:
 [![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanay)](https://github.com/anuraghazra/github-readme-stats)
