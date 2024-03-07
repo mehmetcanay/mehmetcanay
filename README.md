@@ -6,4 +6,5 @@ Hi there, I'm Can 👋. As a research-driven professional, my expertise lies in 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mehmetcanay)
 
 ## My stats:
-![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanay&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
+![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetcanay&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave) <br>
+[![Can's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mehmetcanay&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
