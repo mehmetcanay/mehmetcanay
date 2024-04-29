@@ -3,4 +3,7 @@ Hi there, I'm Can 👋. As a research-driven professional, my expertise lies in 
 
 ## Find me around the web 🌍:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-can-ay)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mehmetcanay)
+
+## My stats:
+
+[![Can's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dark&hide=csv,text,TSConfig&display_format=percent&custom_title=Top&nbsp;Languages&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
