@@ -6,4 +6,4 @@ Hi there, I'm Can 👋. As a research-driven professional, my expertise lies in 
 
 ## My stats:
 
-[![Can's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dark&hide=csv,text,TSConfig,YAML&display_format=percent&custom_title=Top&nbsp;Languages&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Can's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dark&hide=csv,text,TSConfig,YAML,Markdown&display_format=percent&custom_title=Top&nbsp;Languages&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
