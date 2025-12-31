@@ -6,15 +6,15 @@ Currently, I am a research associate at [Fraunhofer Institute for Algorithms and
 
 ## My stats:
 
-[![Can's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dracula&display_format=percent&custom_title=Top&nbsp;Languages&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Can's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dracula&display_format=percent&custom_title=Top Languages _count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🐍 My Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetcanay/mehmetcanay/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmetcanay/mehmetcanay/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mehmetcanay/mehmetcanay/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </div>
 
