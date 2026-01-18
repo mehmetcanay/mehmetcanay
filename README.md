@@ -6,15 +6,4 @@ Currently, I am a research associate at [Fraunhofer Institute for Algorithms and
 
 ## My stats:
 
-[![Can's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dracula&display_format=percent&custom_title=Top Languages _count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmetcanay/mehmetcanay/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mehmetcanay/mehmetcanay/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<hr>
+[![Can's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dracula&display_format=percent&langs_count=6&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
