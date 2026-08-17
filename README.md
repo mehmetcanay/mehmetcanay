@@ -36,4 +36,4 @@ My research interests include biomedical data interoperability, semantic retriev
 
 ## My stats:
 
-[![Can's WakaTime stats](https://github-readme-stats-extended.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dracula&display_format=percent&langs_count=6&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Can's WakaTime stats](https://github-readme-stats-extended.vercel.app/api/wakatime?username=mehmetcanay&layout=compact&theme=dracula&display_format=percent&langs_count=6&hide_title=true)](https://github.com/stats-organization/github-stats-extended)
