@@ -26,7 +26,7 @@ Python library for embedding-based data harmonization and semantic search using 
 
 ## Core technologies
 
-Python · FastAPI · TypeScript · Angular · PostgreSQL · Docker · Kubernetes · Helm · GitHub Actions · Jenkins · Biomedical ontologies · Semantic harmonization · Text embeddings
+Python · FastAPI · TypeScript · React · Angular · PostgreSQL · Docker · Kubernetes · Helm · GitHub Actions · Jenkins · Biomedical ontologies · Semantic harmonization · Text embeddings
 
 ## Research
 
